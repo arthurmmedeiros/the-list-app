@@ -17,8 +17,7 @@ export default class AlbumsStore {
                         this.postList = items
                     })
                 }
-                this.isLoading = false;              
-
+                this.isLoading = false;             
             })  
     }
 }

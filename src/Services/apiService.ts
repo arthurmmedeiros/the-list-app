@@ -5,7 +5,6 @@ export function apiService<T>(url: string): Promise<T> {
           throw new Error(response.statusText)
         }
         return response.json()
-      })
-  
+      });  
   }
 
