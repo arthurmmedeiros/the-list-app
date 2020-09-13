@@ -1,0 +1,12 @@
+.post-card-container{
+    border: 1px solid #E9ECEF;
+    text-align: left;
+    padding: 1rem;
+    box-shadow: 0 8px 16px -8px rgba(0,0,0,0.4); 
+    border-radius: 10px;
+
+    .post-card-title{
+        border-bottom: 1px solid #E9ECEF;
+        margin-bottom: 10px;
+    }
+}
