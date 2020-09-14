@@ -2,6 +2,13 @@ This is the List App
 
 It uses Mobx to control state
 
+## How to run the project
+
+- You need node installed in your machine
+- Download this repository
+- run inside the folder `npm install`
+- then run `npm start`
+
 ## Available Scripts
 
 In the project directory, you can run:
